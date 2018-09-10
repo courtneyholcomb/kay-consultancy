@@ -4,7 +4,7 @@ let questions = [
   'What is your name?',
   'How long have you been dressing yourself?',
   'What is your pants size?',
-  'What is your annual net worth?',
+  'What is your annual income?',
 ];
 
 let i = 0;
